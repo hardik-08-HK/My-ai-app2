@@ -1,0 +1,8 @@
+{
+  "name": "OFFICIAL HK AI",
+  "description": "An advanced AI-powered chatbot with image generation, code writing, and admin-controlled AI builder capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
